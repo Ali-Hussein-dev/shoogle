@@ -1,6 +1,6 @@
 ## Shoogle
 
-Search **shadcn/ui** blocks across the web. [shoogle.dev](https://shoogle.dev)
+Search **shadcn/ui** blocks across the shadcn registries. [shoogle.dev](https://shoogle.dev)
 
 Shoogle helps you quickly discover ready‑made shadcn-style components and blocks so you can build modern UIs faster.
 
