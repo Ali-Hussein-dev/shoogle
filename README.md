@@ -17,11 +17,3 @@ You can use [GitHub Discussions](https://github.com/Ali-Hussein-dev/shoogle/disc
 The main application source code is currently **private** and may or may not be open‑sourced in the future.
 
 This repository is primarily for community feedback, tracking issues, and sharing updates about the project.
-
-## Technologies used
-
-- Tanstack Start
-- Convex for DB
-- Shadcn for UI
-- Vite
-- Cloudflare for hosting
