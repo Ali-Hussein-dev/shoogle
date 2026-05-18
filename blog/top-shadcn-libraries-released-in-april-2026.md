@@ -1,3 +1,10 @@
+---
+title: Top shadcn registries released in April 2026
+description: A curated list of the most interesting shadcn/ui registries and libraries that launched or reserved their namespace in April 2026, hand‑picked from the Shoogle directory.
+---
+
+# Top shadcn registries released in April 2026
+
 This list of shadcn registries doesn’t include every single shadcn library from April 2026. I hand‑picked the ones that feel solid and useful, and skipped the half-baked stuff. For the full list, check the [registry directory](https://shoogle.dev/directory) on Shoogle.
 
 <img width="3815" height="1931" alt="image" src="https://github.com/user-attachments/assets/71533de8-6adf-4163-9945-2c149e010b5f" />
