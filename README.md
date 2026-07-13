@@ -1,8 +1,11 @@
-## Shoogle
+# Shoogle
 
-Search **shadcn/ui** blocks across the shadcn registries. [shoogle.dev](https://shoogle.dev)
+Search **shadcn/ui** blocks across registries. [shoogle.dev](https://shoogle.dev)
 
 Shoogle helps you quickly discover ready‑made shadcn-style components and blocks so you can build modern UIs faster.
+
+## Shoogle MCP Server
+Power your AI agent with +10,000 pre-built shadcn blocks crafted by desgin engineers. To connect your agent to the Shoogle MCP server, follow the steps in the [installtion guide](https://shoogle.dev/mcp-install)
 
 ## What this repo is for
 
